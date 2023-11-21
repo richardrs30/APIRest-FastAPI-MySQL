@@ -1,4 +1,4 @@
-# APIRest-FastAPI-SQLAlchemy-MySQL 🐍
+# APIRest-FastAPI-SQLAlchemy-MySQL ⚡🐍
 Users APIRest made with FastAPI, SQLAlchemy and MySQL
 
 ## Pasos para instalar:
