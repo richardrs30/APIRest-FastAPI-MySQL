@@ -4,7 +4,7 @@ Users APIRest made with FastAPI, SQLAlchemy and MySQL
 ## PASOS PARA INSTALAR
 ### 1️⃣ Crear el entorno virtual dentro de la carpeta:
 ```
- 	python -m venv venv
+python -m venv venv
 ```
  
 ### 2️⃣ Activar el entorno virtual 
