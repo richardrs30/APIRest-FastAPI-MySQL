@@ -6,7 +6,6 @@ Users APIRest made with FastAPI, SQLAlchemy and MySQL
 ```
 python -m venv venv
 ```
-
 ### 2️⃣ Activar el entorno virtual: 
 ```
 venv\Scripts\activate
